@@ -1,3 +1,3 @@
 # csudalatos_JS
 
-_még mindig jobban csipázom a pythont_
+_"Még mindig jobban csipázom a pythont..."_
